@@ -2766,8 +2766,9 @@ int main() {
     
     clearScreen();
 
+    //? These comments are for rendering dashboards directly
     // adminDashboard(12, "Kc-Sean", "Sean-Brix", "IT-DEPT", "admin", "121802");
-	userDashboard(10 , "devacc", "devacc", "IT-Dept" , "user", "121802");
+	// userDashboard(10 , "devacc", "devacc", "IT-Dept" , "user", "121802");
     
     string line_color = "\e[47m";
     
