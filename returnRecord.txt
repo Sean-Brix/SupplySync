@@ -13,3 +13,8 @@
 13 mangga 1 7 Kc-Sean 2025-05-13 2025-05-14
 14 Perfume 2 8 Israel 2025-05-13 2025-05-14
 5 a4-bondpaper 3 10 devacc 2025-05-15 2025-05-15
+20 Bag 2 10 devacc 2025-05-15 2025-05-15
+6 mangga 2 10 devacc 2025-05-15 2025-05-15
+12 Headphone 2 8 Israel 2025-05-13 2025-05-15
+8 Desktop 2 10 devacc 2025-05-15 2025-05-15
+2 pencil 2 10 devacc 2025-05-15 2025-05-15

@@ -19,3 +19,4 @@
 9 2 pencil 3 10 devacc 2025-05-15
 11 5 a4-bondpaper 4 10 devacc 2025-05-15
 11 19 Sunscreen 3 10 devacc 2025-05-15
+7 4 eraser 2 10 devacc 2025-05-15
