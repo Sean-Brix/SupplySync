@@ -1,0 +1,6 @@
+3 4 eraser 3 3 isra 2025-04-27
+4 17 Eye-Glass 2 8 Israel 2025-05-13
+5 12 Headphone 2 8 Israel 2025-05-13
+6 8 Desktop 2 10 devacc 2025-05-15
+7 6 mangga 2 10 devacc 2025-05-15
+10 20 Bag 2 10 devacc 2025-05-15

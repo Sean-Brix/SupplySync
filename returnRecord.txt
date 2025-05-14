@@ -1,0 +1,15 @@
+1 monitor 2 10 kristoffer 2025-04-28 2025-04-28
+2 mangga 12 10 kristoffer 2025-04-28 2025-04-28
+3 a4-bondpaper 20 10 kristoffer 2025-04-27 2025-04-28
+4 paper 10 3 isra 2025-04-28 2025-04-28
+5 monitor 5 3 isra 2025-04-28 2025-04-28
+6 eraser 3 10 kristoffer 2025-04-27 2025-05-14
+7 paper 2 10 kristoffer 2025-04-28 2025-05-14
+8 eraser 4 3 isra 2025-04-28 2025-05-14
+9 paper 2 4 rhenzy 2025-05-13 2025-05-14
+10 monitor 3 3 isra 2025-04-27 2025-05-14
+11 Desktop 2 8 Israel 2025-05-13 2025-05-14
+12 Selfie-Stick 1 10 Ethel 2025-05-13 2025-05-14
+13 mangga 1 7 Kc-Sean 2025-05-13 2025-05-14
+14 Perfume 2 8 Israel 2025-05-13 2025-05-14
+5 a4-bondpaper 3 10 devacc 2025-05-15 2025-05-15

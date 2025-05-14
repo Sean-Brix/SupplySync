@@ -1,0 +1,24 @@
+// Go to your project directory
+
+cd C:\Users\KC Sean\Desktop\PROJECTS\Github Project\Collaborator\siplasplas
+
+
+// Compile All Modules
+
+make
+
+
+// Delete Build (Then "make" to recompile)
+
+make clean
+
+
+// Run App (Compile if you havent yet)
+
+./SupplySync (bash)
+SupplySync (cmd)
+
+
+// Character bugs
+
+Right click on terminal -> properties -> font -> font = Consolas -> ok

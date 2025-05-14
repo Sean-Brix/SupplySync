@@ -1,0 +1,8 @@
+2 kc-sean-brix kc brix it-department admin
+3 isra mabayo ako cs-dep user
+4 rhenzy ren si educ user
+5 kristoffer kris toff cs-department user
+6 kristoffer nice 2ceeu it-dep admin
+7 Kc-Sean Sean-Brix 121802 IT-DEPT. admin
+9 Ethel itsitelt 121802 IT-Department admin
+10 devacc devacc 121802 IT-Dept user
