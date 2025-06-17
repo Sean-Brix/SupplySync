@@ -18,3 +18,8 @@
 12 Headphone 2 8 Israel 2025-05-13 2025-05-15
 8 Desktop 2 10 devacc 2025-05-15 2025-05-15
 2 pencil 2 10 devacc 2025-05-15 2025-05-15
+4 eraser 3 3 isra 2025-04-27 2025-06-16
+9 Napsack 2 8 Israel 2025-06-16 2025-06-16
+17 Eye-Glass 2 8 Israel 2025-05-13 2025-06-16
+3 monitor 2 12 rhenz 2025-06-16 2025-06-16
+3 monitor 1 15 users 2025-06-16 2025-06-16
