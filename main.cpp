@@ -113,7 +113,7 @@ void deleteItem(int idToDelete);
 void deleteUser(int idToDelete);
 void changePass(int id, string confirmedPass);
 
-void approveRequest(int requestIdToApprove);
+void approveRequest(int idToBorrow);
 void cancelItems(int idToCancel);
 
 void debug(const string bug, const int time = 3000);
