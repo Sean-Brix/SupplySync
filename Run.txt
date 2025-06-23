@@ -1,6 +1,6 @@
 // Go to your project directory
 
-cd C:\Users\KC Sean\Desktop\PROJECTS\Github Project\Collaborator\siplasplas
+cd C:\Users\KC Sean\Desktop\PROJECTS\Capstone\SupplySync
 
 
 // Compile All Modules

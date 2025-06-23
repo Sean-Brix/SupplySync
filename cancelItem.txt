@@ -23,3 +23,6 @@
 9 3 monitor 0 12 rhenz 2025-06-16
 11 3 monitor 2 12 rhenz 2025-06-16
 10 4 eraser 10 15 users 2025-06-16
+10 3 monitor 5 18 Rhenzy 2025-06-22
+11 10 Selfie-Stick 10 19 sean 2025-06-23
+12 6 mangga 20 19 sean 2025-06-23

@@ -8,4 +8,6 @@
 12 rhenz rhendev 121802 cs-dept user
 13 sample sample-user password IT-DEPT user
 14 rhenzy rhen-devs 121802 IT-DEPT admin
-15 users user1 121802 ITDEPT user
+16 sample_name sample_user sample_pass IT-DEPT admin
+18 Rhenzy RhenDev 182804 IT-DEPT user
+19 sean sean-brix 121802 IT-DEPT user
